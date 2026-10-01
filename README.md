@@ -1,6 +1,6 @@
-# TJ 노래방 전송 앱 — 배포
+# KaraLink — 배포
 
-이 저장소는 앱 설치 파일(APK)만 올리는 곳입니다.
+노래방 기기로 노래를 보내는 앱 KaraLink의 설치 파일(APK)만 올리는 곳입니다.
 
 ## 설치
 1. [Releases](../../releases/latest)에서 `tj-karaoke-x.y.z.apk`를 받습니다.
